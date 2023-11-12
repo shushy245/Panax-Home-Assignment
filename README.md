@@ -1,4 +1,3 @@
-# Panax-Home-Assignment
 # Hello! Welcome to my home assignment
 This assignment includes a /get route that returns all transactions, and a /post route that accepts a csv file and saves, returns and logs its content
 
